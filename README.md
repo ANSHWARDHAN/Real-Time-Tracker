@@ -1,0 +1,1 @@
+This is the Real time tracker web application for the users to track them at the real time using the leaflet and the reactjs and nodejs along with mongodb and express and provide in the latitude and longitude measurement without dealyiing in the real time using the websockets 
